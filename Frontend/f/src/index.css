@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+@import "tailwindcss";
+
+/* Optional: make Roboto the default font globally */
+@theme {
+  --font-roboto: "Roboto", sans-serif; 
+}

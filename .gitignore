@@ -1,0 +1,41 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.sqlite3
+venv/
+env/
+*.env
+*.log
+*.db
+instance/
+*.egg-info/
+.DS_Store
+
+# ===== Node / Frontend =====
+node_modules/
+dist/
+build/
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===== Environment / OS =====
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+
+# ===== Others =====
+# Ignore virtual envs and temp JSON
+Backend/venv/
+Backend/__pycache__/
+Frontend/node_modules/
+*.json.backup

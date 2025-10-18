@@ -1,0 +1,90 @@
+{
+    "medical_emergencies_india": {
+      "important_ngos": [
+        {
+          "name": "Smile Foundation",
+          "description": "Provides mobile healthcare units, free checkups, and financial assistance for treatments in underserved areas.",
+          "contact": "Website: smilefoundationindia.org | Phone: +91-11-43123700",
+          "twitter": "@SmileFdn"
+        },
+        {
+          "name": "Doctors For You (DFY)",
+          "description": "Offers emergency medical relief, disaster response, and healthcare in remote areas across 23 states.",
+          "contact": "Website: doctorsforyou.org | Phone: +91-9830044600",
+          "twitter": "@DoctorsForYou"
+        },
+        {
+          "name": "HelpAge India",
+          "description": "Focuses on elderly healthcare, including mobile units for free medical care in rural areas.",
+          "contact": "Website: helpageindia.org | Phone: +91-11-41688955",
+          "twitter": "@helpageindia"
+        },
+        {
+          "name": "CARE India",
+          "description": "Works on maternal, child health, and emergency medical assistance in 21 states.",
+          "contact": "Website: careindia.org | Phone: +91-11-40597700",
+          "twitter": "@CAREIndia"
+        },
+        {
+          "name": "St. John's Ambulance",
+          "description": "Provides first aid, emergency medical services, and training during disasters.",
+          "contact": "Website: sja.org.in | Phone: +91-11-24530707",
+          "twitter": "@StJohnAmbulance"
+        },
+        {
+          "name": "Ek Parivartan Foundation",
+          "description": "Offers free health checkups and financial aid for critical treatments in Delhi and beyond.",
+          "contact": "Website: epfngo.org | Phone: +91-9811177655",
+          "twitter": "@EPFoundation"
+        }
+      ],
+      "important_helplines": [
+        {
+          "number": "112",
+          "description": "Pan-India emergency response for police, fire, and medical services. Use the 112 India App for SOS."
+        },
+        {
+          "number": "108",
+          "description": "Free ambulance service for medical emergencies, operated in 23 states via PPP with GVK EMRI, ZHL, etc."
+        },
+        {
+          "number": "102",
+          "description": "Free ambulance for pregnant women, newborns, and general emergencies under NRHM."
+        },
+        {
+          "number": "104",
+          "description": "24/7 health helpline for medical advice, directory, and scheme information."
+        },
+        {
+          "number": "1098",
+          "description": "Childline for children in medical distress or emergencies."
+        }
+      ],
+      "important_authorities": [
+        {
+          "name": "Ministry of Health and Family Welfare (MoHFW)",
+          "description": "Oversees national health policies, emergency medical relief, and schemes like Ayushman Bharat.",
+          "contact": "Website: mohfw.gov.in | Phone: +91-11-23061491",
+          "twitter": "@MoHFW_INDIA"
+        },
+        {
+          "name": "National Health Authority (NHA)",
+          "description": "Implements Ayushman Bharat PM-JAY for free treatment up to ₹5 lakh in medical emergencies.",
+          "contact": "Website: nha.gov.in | Helpline: 14555",
+          "twitter": "@NHAInd"
+        },
+        {
+          "name": "Emergency Response Support System (ERSS)",
+          "description": "Single-window system for all emergencies, including medical, via 112 helpline.",
+          "contact": "Website: 112.gov.in | Phone: 112",
+          "twitter": "@112_INDIA"
+        },
+        {
+          "name": "National Disaster Management Authority (NDMA)",
+          "description": "Coordinates medical response during disasters and mass casualty events.",
+          "contact": "Website: ndma.gov.in | Phone: +91-11-26701700",
+          "twitter": "@ndmaindia"
+        }
+      ]
+    }
+  }
