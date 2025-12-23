@@ -41,6 +41,11 @@ Technical overview
   - Retrieval + scoring + generation (Backend/rag2.py)
   - Agent orchestration and experiment entrypoint (Backend/agent.py, Backend/main.py)
 
+<p align="center">
+  <img src="./Screenshot%202025-12-23%20135722.png" alt="MeeshoDICE Technical Overview" width="800">
+</p>
+
+
 Quick start
 -----------
 
